@@ -1,0 +1,49 @@
+h1 {
+    color: rgba(164, 44, 44, 0.904);
+    text-align: center;
+    font-family: garamond, serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+header {
+    background-color: rgba(243, 243, 106, 0.217);
+}
+
+* {
+    background-color: rgba(243, 243, 106, 0.217);
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 97%;
+    padding: 40px;
+    height: 100%;
+    margin: 20px;
+}
+
+caption {
+    font-size: 40px;
+    font-family: garamond, serif;
+    color: rgba(164, 44, 44, 0.904);
+    font-weight: bold;
+}
+
+th {
+    font-size: 25px;
+    color: white;
+    background-color: rgba(164, 44, 44, 0.904);
+    padding: 10px;
+    border: 1px solid black;
+}
+
+td {
+    font-size: 20px;
+    color: black;
+    border: 1px solid black;
+    background-color: rgba(243, 243, 106, 0.217);
+    padding: 10px;
+}
+
